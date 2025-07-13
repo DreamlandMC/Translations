@@ -1,0 +1,10 @@
+[
+  {
+    "file": "de.properties",
+    "name": "Deutsch"
+  },
+  {
+    "file": "en_US.properties",
+    "name": "English (US)"
+  }
+]
