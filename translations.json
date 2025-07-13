@@ -1,18 +1,22 @@
 [
   {
     "file": "de.properties",
-    "name": "Deutsch"
+    "name": "Deutsch",
+    "code": "de"
   },
   {
     "file": "en_US.properties",
-    "name": "English (US)"
+    "name": "English (US)",
+    "code": "en_US"
   },
     {
     "file": "it.properties",
-    "name": "Italiano"
+    "name": "Italiano",
+    "code": "it"
   },
     {
     "file": "zh_CN.properties",
-    "name": "中文"
+    "name": "中文",
+    "code": "zh_CN"
   }
 ]
