@@ -23,5 +23,10 @@
     "file": "nl.properties",
     "name": "Nederlands (Nederland)",
     "code": "nl_NL"
+  },
+      {
+    "file": "fr.properties",
+    "name": "Français (France)",
+    "code": "fr_FR"
   }
 ]
