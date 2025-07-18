@@ -9,7 +9,7 @@
     "name": "English (United States)",
     "code": "en_US"
   },
-    {
+  {
     "file": "it.properties",
     "name": "Italiano (Italia)",
     "code": "it"
@@ -19,12 +19,12 @@
     "name": "中文(简体)",
     "code": "zh_CN"
   },
-    {
+  {
     "file": "nl.properties",
     "name": "Nederlands (Nederland)",
     "code": "nl_NL"
   },
-      {
+  {
     "file": "fr.properties",
     "name": "Français (France)",
     "code": "fr_FR"
