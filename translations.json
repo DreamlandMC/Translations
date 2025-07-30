@@ -1,0 +1,22 @@
+[
+  {
+    "file": "de_DE.properties",
+    "name": "Deutsch (Deutschland)",
+    "code": "de_DE"
+  },
+  {
+    "file": "en_US.properties",
+    "name": "English (United States)",
+    "code": "en_US"
+  },
+  {
+    "file": "it_IT.properties",
+    "name": "Italiano (Italia)",
+    "code": "it_IT"
+  },
+  {
+    "file": "fr_FR.properties",
+    "name": "Français (France)",
+    "code": "fr_FR"
+  }
+]
